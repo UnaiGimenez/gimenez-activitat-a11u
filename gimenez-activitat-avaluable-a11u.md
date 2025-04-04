@@ -48,3 +48,11 @@ Sant Celoni
 
 -Manteniment d'equips informatics
 -Manteniment de la xarxa
+
+# Idiomes
+
+| Idioma   |Nivell|
+|----------|------|
+| Castella |  A2 |  
+| Catala |    A2  | 
+| Angles |    A2  | 
