@@ -6,3 +6,10 @@
   <li>Jordi</li>
   <li>Unai</li>
 </ol>
+
+# Taula
+
+| Nom      | Edat | Ciutat     |
+|----------|------|-----------|
+| Pau     | 15   | Barcelona |
+| Joan     | 35   | Girona    |
